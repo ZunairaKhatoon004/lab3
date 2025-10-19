@@ -7,4 +7,5 @@ This is a third remote change for rebase testing.
 This is a third local change for rebase testing.
 Third local update to README
 This is my first test line.
-
+This is my amend test line.
+Added second line for amend test.
